@@ -1,0 +1,23 @@
+name,symbol,marketCap,currentPrice,volume,sector,blockchain,consensus,riskLevel,volatility,launchYear,category,popularityScore,recommendationScore,description
+Bitcoin,BTC,1300000000000,67000.0,28000000000,Store of Value,Bitcoin,PoW,Medium,45.0,2009,Layer1,100,96.0,The original cryptocurrency and digital gold
+Ethereum,ETH,400000000000,3400.0,15000000000,Smart Contracts,Ethereum,PoS,Medium,55.0,2015,Layer1,98,94.0,Leading smart contract platform
+Solana,SOL,70000000000,150.0,3500000000,Smart Contracts,Solana,PoS,High,75.0,2020,Layer1,88,85.0,High-throughput Layer1 blockchain
+Cardano,ADA,18000000000,0.45,600000000,Smart Contracts,Cardano,PoS,Medium,50.0,2017,Layer1,75,80.0,Research-driven proof-of-stake blockchain
+Dogecoin,DOGE,20000000000,0.14,1200000000,Payments,Dogecoin,PoW,High,80.0,2013,Meme,82,70.0,Popular meme coin with strong community
+Ripple,XRP,35000000000,0.62,1800000000,Payments,XRP Ledger,PoS,Medium,48.0,2012,Layer1,80,78.0,Cross-border payments focused ledger
+Polygon,MATIC,8000000000,0.85,400000000,Scaling,Polygon,PoS,Medium,60.0,2019,Layer1,72,76.0,Ethereum scaling and infrastructure
+Polkadot,DOT,10000000000,7.2,350000000,Interoperability,Polkadot,PoS,Medium,58.0,2020,Layer1,70,74.0,Multi-chain interoperability network
+Litecoin,LTC,6000000000,85.0,500000000,Payments,Litecoin,PoW,Low,40.0,2011,Layer1,68,72.0,Silver to Bitcoin gold payments coin
+Avalanche,AVAX,12000000000,35.0,550000000,Smart Contracts,Avalanche,PoS,High,70.0,2020,Layer1,74,77.0,Fast finality smart contract platform
+Chainlink,LINK,9000000000,14.5,450000000,Oracles,Ethereum,PoS,Medium,55.0,2017,DeFi,78,81.0,Decentralized oracle network
+BNB,BNB,90000000000,580.0,1500000000,Exchange,BNB Chain,PoS,Medium,52.0,2017,Exchange,90,88.0,Binance ecosystem utility token
+TRON,TRX,12000000000,0.12,700000000,Entertainment,TRON,PoS,Medium,50.0,2017,Layer1,65,68.0,High-throughput entertainment blockchain
+Uniswap,UNI,7000000000,9.5,300000000,DEX,Ethereum,PoS,High,68.0,2020,DeFi,76,79.0,Leading decentralized exchange token
+Shiba Inu,SHIB,10000000000,0.000025,800000000,Payments,Ethereum,PoS,High,85.0,2020,Meme,79,65.0,Ethereum-based meme token ecosystem
+Aptos,APT,5000000000,8.5,250000000,Smart Contracts,Aptos,PoS,High,72.0,2022,Layer1,60,71.0,Move-based high-performance Layer1
+Near Protocol,NEAR,6000000000,5.8,280000000,Smart Contracts,NEAR,PoS,Medium,62.0,2020,Layer1,64,73.0,Developer-friendly sharded blockchain
+Cosmos,ATOM,4000000000,9.0,220000000,Interoperability,Cosmos,PoS,Medium,58.0,2019,Layer1,66,72.0,Internet of blockchains hub
+Monero,XMR,3000000000,160.0,150000000,Privacy,Monero,PoW,High,55.0,2014,Privacy,58,69.0,Privacy-focused fungible cryptocurrency
+Arbitrum,ARB,3500000000,1.1,400000000,Scaling,Arbitrum,PoS,Medium,65.0,2023,Layer1,70,75.0,Leading Ethereum Layer2 optimistic rollup
+Aave,AAVE,2500000000,95.0,180000000,Lending,Ethereum,PoS,Medium,60.0,2020,DeFi,67,74.0,Decentralized lending and borrowing protocol
+Render,RNDR,2800000000,7.5,200000000,Compute,Ethereum,PoS,High,70.0,2017,AI,62,70.0,Decentralized GPU rendering network
