@@ -5,10 +5,11 @@
 #include <iostream>
 #include <iomanip>
 
-namespace CryptoCompass {
+namespace CryptoCompass{
 
-class Crypto {
+class Crypto{
 public:
+
     Crypto() = default;
 
     Crypto(std::string name,
@@ -25,9 +26,9 @@ public:
            std::string category,
            int popularityScore,
            double recommendationScore,
-           std::string description);
+           std::string description
+        );
 
-    // Getters (const-correct)
     const std::string& getName() const;
     const std::string& getSymbol() const;
     double getMarketCap() const;
@@ -72,5 +73,6 @@ private:
 };
 
 } 
+
 
 #endif 
