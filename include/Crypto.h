@@ -1,6 +1,5 @@
 #ifndef CRYPTOCOMPASS_CRYPTO_H
 #define CRYPTOCOMPASS_CRYPTO_H
-
 #include <string>
 #include <iostream>
 #include <iomanip>
